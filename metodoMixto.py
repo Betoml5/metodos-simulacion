@@ -1,9 +1,5 @@
 
 
-from re import A
-from unittest import result
-
-
 a = 50
 semilla = 15
 c = 16
