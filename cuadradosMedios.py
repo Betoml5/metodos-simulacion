@@ -1,4 +1,6 @@
 
+##TERMINADO
+
 semilla = input("Escriba semilla: ")
 tam1 = len(semilla)
 print("Cantidad de dígitos: ", tam1)
